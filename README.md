@@ -7,4 +7,4 @@ This project is published **for portfolio and educational viewing purposes only*
 - ❌ Commercial or non-commercial use is not permitted.  
 - ✅ You are welcome to explore the code to understand my work.  
 
-All rights reserved © 2025 [Your Name].
+All rights reserved © 2025 Moaz Ahmed.
